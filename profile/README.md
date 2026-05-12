@@ -1,6 +1,6 @@
 # Aviato
 
-Aviato is a personal media server by [Ato](https://avi.ato.software).
+Aviato is a personal media server by [Ato](https://ato.software).
 
 Learn more at [avi.ato.software](https://avi.ato.software).
 
