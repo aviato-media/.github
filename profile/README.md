@@ -2,7 +2,7 @@
 
 Aviato is a personal media server by [Ato](https://ato.software).
 
-Learn more at [avi.ato.software](https://avi.ato.software).
+Learn more at [avi.ato.software](https://aviato.media).
 
 ## Plugins
 
@@ -15,4 +15,4 @@ Aviato is extensible through plugins.
 
 ## Documentation
 
-Need help? See the docs at [avi.ato.software/docs](https://avi.ato.software/docs).
+Need help? See the docs at [aviato.media/docs](https://aviato.media/docs).
